@@ -10,7 +10,61 @@ Página web personal creada en el curso IBM2026 Prototyping for Bioengineers
 ## Acerca de Mi
 
 
+
 ## Ayudantías
+<details>
+<summary>Ayudantía 1: Github</summary>
+[2023-03-15 Clase 3 Git.pdf](https://github.com/bvsepulv/bvsepulv.github.io/files/11106970/2023-03-15.Clase.3.Git.pdf)
+
+
+</details>
+
+<details>
+<summary>Ayudantía 2: 3D Printing</summary>
+
+</details>
+
+<details>
+<summary>Ayudantía 3: CAD Design</summary>
+  Pronto
+
+</details>
+
+<details>
+<summary>Ayudantía 4: ReClone</summary>
+  Pronto
+
+</details>
+
+<details>
+<summary>Ayudantía 5: Cell Free</summary>
+  Pronto
+
+</details>
+
+<details>
+<summary>Ayudantía 6: Molding</summary>
+  Pronto
+
+</details>
+
+<details>
+<summary>Ayudantía 7: Syringe Pumps</summary>
+  Pronto
+
+</details>
+
+<details>
+<summary>Ayudantía 8: Syringe Pump Software</summary>
+  Pronto
+
+</details>
+
+<details>
+<summary>Ayudantía 9: Microfluidics</summary>
+  Pronto
+
+</details>
 
 
 ## Proyecto Final
