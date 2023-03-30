@@ -1,15 +1,16 @@
-# bvsepulv.github.io
-Página web personal creada en el curso IBM2026 Prototyping for Bioengineers 
+# Beatriz Sepúlveda Saavedra
 
-## Projects
+## Inicio
+**Estudiante de ingeniería civil en biomedicina en la Pontificia Universidad Católica de Chile con amplias habilidades de comunicación efectiva, pensamiento analítico y de resolución de problemas. Muy comprometida a la aplicación de soluciones innovadoras a problemas complejos con enfoque multidisciplinario a través de trabajo organizado y creativo.**
+Página web personal creada en el curso IBM2026 Prototyping for Bioengineers
 
-## About Us
+## Acerca de Mi
 
-## Resources
 
-[Markdown Guide](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## Ayudantías
 
-## Contact Us
+
+## Proyecto Final
 
 
 
