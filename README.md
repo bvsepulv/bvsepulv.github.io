@@ -48,7 +48,7 @@ Pontificia Universidad Católica de Chile
   
 > **GitHub** es la plataforma más grande para los repositorios de Git y es el punto central de colaboración para millones de desarrolladores y proyectos. Un gran porcentaje de todos los repositorios de Git están alojados en GitHub, y muchos proyectos de código abierto lo utilizan para el alojamiento de Git, el seguimiento de problemas, la revisión de código y otras cosas
   
-GitHub: https://github.com/bvsepulv/bvsepulv.github.io/files/11107020/2023-03-16.Clase.4.GitHub.pdf
+GitHub: <https://github.com/bvsepulv/bvsepulv.github.io/files/11107020/2023-03-16.Clase.4.GitHub.pdf>
 
 
 </details>
@@ -59,7 +59,7 @@ GitHub: https://github.com/bvsepulv/bvsepulv.github.io/files/11107020/2023-03-16
 
 > La **impresión 3D** es una de tecnología de fabricación por adición donde un objeto tridimensional es creado mediante la superposición de capas sucesivas de material. Las impresoras 3D son por lo general más rápidas, más baratas y fáciles de usar, pero, están sometidas a un compromiso entre su precio de adquisición y la tolerancia en las medidas de los objetos producidos
   
-Impresion 3D: https://github.com/bvsepulv/bvsepulv.github.io/files/11107021/2023-03-23.Clase.6.Impresion.3D.pdf
+Impresion 3D: <https://github.com/bvsepulv/bvsepulv.github.io/files/11107021/2023-03-23.Clase.6.Impresion.3D.pdf>
 
 </details>
 
