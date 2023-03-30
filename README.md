@@ -14,13 +14,22 @@ Página web personal creada en el curso IBM2026 Prototyping for Bioengineers
 ## Ayudantías
 <details>
 <summary>Ayudantía 1: Github</summary>
-[2023-03-15 Clase 3 Git.pdf](https://github.com/bvsepulv/bvsepulv.github.io/files/11106970/2023-03-15.Clase.3.Git.pdf)
+  <img align="left" width="120" height="100" alt="github" src="https://www.oomnitza.com/wp-content/uploads/2022/06/github-logo-300x300.png">
+  
+> **GitHub** es la plataforma más grande para los repositorios de Git y es el punto central de colaboración para millones de desarrolladores y proyectos. Un gran porcentaje de todos los repositorios de Git están alojados en GitHub, y muchos proyectos de código abierto lo utilizan para el alojamiento de Git, el seguimiento de problemas, la revisión de código y otras cosas
+  
+GitHub: https://github.com/bvsepulv/bvsepulv.github.io/files/11107020/2023-03-16.Clase.4.GitHub.pdf
 
 
 </details>
 
 <details>
 <summary>Ayudantía 2: 3D Printing</summary>
+  <img align="left" width="120" height="100" alt="printing" src="https://ugc.futurelearn.com/uploads/images/84/e7/large_hero_84e75fcd-2d69-46d8-b5ad-8e446a29797b.png">
+
+> La **impresión 3D** es una de tecnología de fabricación por adición donde un objeto tridimensional es creado mediante la superposición de capas sucesivas de material. Las impresoras 3D son por lo general más rápidas, más baratas y fáciles de usar, pero, están sometidas a un compromiso entre su precio de adquisición y la tolerancia en las medidas de los objetos producidos
+  
+Impresion 3D: https://github.com/bvsepulv/bvsepulv.github.io/files/11107021/2023-03-23.Clase.6.Impresion.3D.pdf
 
 </details>
 
@@ -68,6 +77,6 @@ Página web personal creada en el curso IBM2026 Prototyping for Bioengineers
 
 
 ## Proyecto Final
-
+**Revisión de Literatura Científica**
 
 
