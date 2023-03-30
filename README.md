@@ -8,7 +8,37 @@
 Página web personal creada en el curso IBM2026 Prototyping for Bioengineers
 
 ## Acerca de Mi
+### Nombre completo
+Beatriz Victoria Sepúlveda Saavedra
 
+### Correo electrónico
+<bvsepulveda@uc.cl>
+
+### Fecha de nacimiento
+30 Noviembre 1999
+
+### Estudios y Certificaciones
+*Educación secundaria*
+
+Colegio alemán Sankt Thomas Morus, Santiago 
+
+2014 - 2017
+
+*Educación superior*
+
+* Ingeniería civil mecánica con mención en biomedicina
+
+Pontificia Universidad Católica de Chile
+
+2018 - Actualidad
+
+* Becada de la fundaión Juan Pablo II
+
+### Idiomas
+
+* *Inglés* C1 Advanced CAE
+
+* *Alemán* C2 Advanced
 
 
 ## Ayudantías
